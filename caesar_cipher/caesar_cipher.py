@@ -60,4 +60,4 @@ def break_code(text):
 
 if __name__ == "__main__":
   # prints 236736
-  print(encrypt("It was the best of times, it was the worst of times.",32))
+  print(encrypt("Gb trg gb gur bgure fvqr!",13))
